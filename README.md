@@ -19,7 +19,7 @@ Rufus is an AI-powered web scraping and data extraction tool designed to intelli
 ## How to use:
 
 1. clone this repo
-2. ```pip install -r requirements.txt ```
+2. ```pip3 install -r requirements.txt ```
 3.  ```
     from Rufus.agent import Rufus
     import os
